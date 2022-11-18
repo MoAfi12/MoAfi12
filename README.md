@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mohamed Afi</h1>
 <h4 align="center">Welcome to my profile, I am a sophomore software engineering student .I love to communicate, I work well in groups, as well as on my own. Have good interpersonal skills and a strong sense of responsibility. Have a good ability in organizing and prioritizing tasks, also able to perform under high pressure.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
