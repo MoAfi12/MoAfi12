@@ -1,6 +1,6 @@
 <img align="top" alt="coding" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
 <h1 align="center">Hi 👋, I'm Mohamed Afi</h1>
-<h4 align="center">Welcome to my profile, I am a sophomore software engineering student .I love to communicate, I work well in groups, as well as on my own. Have good interpersonal skills and a strong sense of responsibility. Have a good ability in organizing and prioritizing tasks, also able to perform under high pressure.</h4>
+<h4 align="center">Welcome to my profile Github, I am a sophomore software engineering student .I love to communicate, I work well in groups, as well as on my own. Have good interpersonal skills and a strong sense of responsibility. Have a good ability in organizing and prioritizing tasks, also able to perform under high pressure.</h4>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moafi12&label=Profile%20views&color=0e75b6&style=flat" alt="moafi12" /> </p>
