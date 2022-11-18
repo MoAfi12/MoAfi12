@@ -3,10 +3,6 @@
 <h4 align="center">Welcome to my profile, I am a sophomore software engineering student .I love to communicate, I work well in groups, as well as on my own. Have good interpersonal skills and a strong sense of responsibility. Have a good ability in organizing and prioritizing tasks, also able to perform under high pressure.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moafi12&label=Profile%20views&color=0e75b6&style=flat" alt="moafi12" /> </p>
 
 - 🌱 I’m currently learning **Programming**
